@@ -1,0 +1,9 @@
+{
+  "name": "日本語クエスト — Language Ascension",
+  "short_name": "日本語クエスト",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#151e35",
+  "description": "A gamified Japanese-learning quest."
+}
